@@ -37,5 +37,5 @@ source <venv-name>/bin/activate
 5. Main file
 
 database 
-username = suyash1274
+username = suyash1274\
 password = suyash1274
