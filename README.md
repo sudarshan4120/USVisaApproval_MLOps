@@ -11,7 +11,7 @@ git push origin main
 
 - FlowChart: https://whimsical.com/
 - MLOps tool: https://www.evidentlyai.com/
-- 
+- dataset : https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 # Creating Virtual Environment:
 ```
@@ -35,3 +35,7 @@ source <venv-name>/bin/activate
 3. components
 4. pipeline
 5. Main file
+
+database 
+username = suyash1274
+password = suyash1274
